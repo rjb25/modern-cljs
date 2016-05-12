@@ -370,7 +370,7 @@ never see an input file from the `:source-paths` and the
 task. Aside from internally generated temporary directories,
 everything happens in the explicit `target` directory.
 
-Open a browser and visit the local `target/index.html` file. Now open
+Open a browser and visit the local `target/index.html` file (Not the html/index.html file!). Now open
 the console in your Development Tool (e.g. Chrome Development Tool).
 If everything went ok, you should see "Hello, World!" printed at the
 console.
